@@ -1,0 +1,23 @@
+config_version=5
+
+[application]
+config/name="杀戮尖塔 2 · 皮肤预览"
+config/use_custom_user_dir=true
+config/custom_user_dir="Graywill_STS2_Skin_Preview"
+
+[display]
+window/size/viewport_width=1360
+window/size/viewport_height=860
+window/size/window_width_override=1360
+window/size/window_height_override=860
+window/size/resizable=true
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.043, 0.051, 0.059, 1)
+
+[debug]
+file_logging/enable_file_logging=true
+file_logging/max_log_files=1

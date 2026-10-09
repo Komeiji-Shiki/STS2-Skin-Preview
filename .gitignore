@@ -1,0 +1,8 @@
+.runtime/
+exports/
+__pycache__/
+settings.json
+animation-reader/obj/
+animation-reader/bin/
+samples/
+dist/
